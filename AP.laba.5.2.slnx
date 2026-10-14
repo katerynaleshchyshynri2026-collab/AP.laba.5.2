@@ -3,6 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="AP.laba.5.2/AP.laba.5.2.vcxproj" />
+  <Project Path="AP.laba.5.2/AP.laba.5.2.vcxproj" Id="14542901-cef9-4574-83bb-7e38c655aa63" />
   <Project Path="UnitTest5.2/UnitTest5.2.vcxproj" />
 </Solution>
